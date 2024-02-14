@@ -1,0 +1,72 @@
+:root{
+    --cor1:#0b8998;
+    --cor2: #D9CAFE;
+    --cor3: #EBE6FF;
+    --cor4: #F2ECFF;
+    --cor5: #206CFF;
+    --cor6: #E9F1FF;
+    --cor7: #F1F8FF;
+    --cor8: #FE7831;
+    --cor9: #FFF2EB;
+    --cor01: #3AB094;
+    --cor02: #D8EFEA;
+    --cor03: #2C2E33;
+    --cor04: #6A727D;
+    --cor05: #ECF8F5;
+}
+
+#Contact{
+    background-color: var(--cor6);
+    color: var(--cor01);
+    padding: 10px;
+    border-radius: 10px;
+    transition: .2s;
+}
+#Contact:hover{
+    background-color: var(--cor1);
+    color: white;
+}
+#logo01{
+    width: 300px;
+    height: 100px;
+    border-radius: 30px;
+}
+.info-digital-agency{
+    background-color: var(--cor6);
+    color: var(--cor01);
+    padding: 4px;
+    text-align: center;
+    border-radius: 30px;
+    width: 300px;
+}
+.info-main{
+    font-size: 2em;
+}
+.info-main h1{
+    color: #0b8998;
+}
+.info-segundario h1{
+    font-size: 1em;
+}
+.container-button{
+    margin-top: 20px;
+}
+.container-button a{
+    text-decoration: none;
+}
+.container-button a:nth-child(2){
+    margin-left: 20px;
+}
+a#Services{
+    background-color: var(--cor1);
+    width: 200px;
+    height: 100px;
+    color: var(--cor02);
+    padding: 10px;
+    border-radius: 10px;
+    transition: .3s;
+}
+a#Services:hover{
+    background-color: var(--cor6);
+    color: var(--cor01);
+}

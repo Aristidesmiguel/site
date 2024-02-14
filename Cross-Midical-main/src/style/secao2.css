@@ -1,0 +1,78 @@
+#secoa2{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.server{
+    margin-left: 100px;   
+}
+img#ceta1{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    transform: rotatey(360deg);
+    transition-duration: .5s;
+}
+img#ceta{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    transform: rotatey(180deg);
+    transition-duration: .5s;
+}
+#ceta:hover{
+
+    transform: scale(1.2) rotatey(180deg);
+}
+#ceta1:hover{
+    transform: scale(1.1);
+}
+.card-txt{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.card-filho{
+    cursor: pointer;
+    margin-right: 80px;
+    margin: 10px;
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    transition-duration: .5s;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.288);
+    padding: 10px;
+}
+.card-filho:hover{
+    transform: scale(1.1) translatey(-15px);
+    background-color: var(--cor1);
+    color: white;
+}
+.b1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.pixe{
+    margin-top: 140px;
+    font-weight: bold;
+    transition-duration: .1s;
+}
+.pix{
+  margin-top: 100px;
+  font-weight: bold;
+  transition-duration: .1s;
+}
+#link{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#coracao{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    color: aliceblue;
+}

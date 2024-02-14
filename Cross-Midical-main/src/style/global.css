@@ -1,0 +1,30 @@
+:root{
+    --cor1: #793CFB;
+    --cor2: #D9CAFE;
+    --cor3: #EBE6FF;
+    --cor4: #F2ECFF;
+    --cor5: #206CFF;
+    --cor6: #E9F1FF;
+    --cor7: #F1F8FF;
+    --cor8: #FE7831;
+    --cor9: #FFF2EB;
+    --cor01: #3AB094;
+    --cor02: #D8EFEA;
+    --cor03: #2C2E33;
+    --cor04: #6A727D;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-image: url("../img/funto.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+}

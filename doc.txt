@@ -1,0 +1,62 @@
+ <section class="secao1 class">
+      <div class="server">
+        <h1>Nossos serviços disponiveis</h1>
+      </div>
+      <div class="cards">
+        <div class="card">
+          <div class="imagen"><img id="web" src="src/img/web-design.png" alt="web-design"></div>
+
+          <div class="container-card">
+            <div class="info-cards">
+              <h3>web-design</h3>
+              <p>Lorem ipsum dolor sit amet <br> consectetur adipisicing elit. Odit, ipsam <br> quibusdam. Aperiam ex reprehenderit eius, <br>aliquid quas.</p>
+            </div>
+            <div class="links"><a class="color c01" href="#">ver agora</a></div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="imagen"><img id="web" src="src/img/seo.png" alt="web-design"></div>
+
+          <div class="container-card">
+            <div class="info-cards">
+              <h3>SEO</h3>
+              <p>Lorem ipsum dolor sit amet <br> consectetur adipisicing elit. Odit, ipsam <br> quibusdam. Aperiam ex reprehenderit eius, <br>aliquid quas.</p>
+            </div>
+            <div class="links"><a class="color c02" href="#">ver agora</a></div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="imagen"><img id="web" src="src/img/social-media.png" alt="web-design"></div>
+
+          <div class="container-card">
+            <div class="info-cards">
+              <h3>Média Social</h3>
+              <p>Lorem ipsum dolor sit amet <br> consectetur adipisicing elit. Odit, ipsam <br> quibusdam. Aperiam ex reprehenderit eius, <br>aliquid quas.</p>
+            </div>
+            <div class="links"><a class="color c03" href="#">ver agora</a></div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="imagen"><img id="web" src="src/img/content-marketing.png" alt="web-design"></div>
+
+          <div class="container-card">
+            <div class="info-cards">
+              <h3>Planos De Negócios</h3>
+              <p>Lorem ipsum dolor sit amet <br> consectetur adipisicing elit. Odit, ipsam <br> quibusdam. Aperiam ex reprehenderit eius, <br>aliquid quas.</p>
+            </div>
+            <div class="links"><a class="color c04" href="#">ver agora</a></div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="imagen"><img id="web" src="src/img/create.png" alt="criação de logotipos"></div>
+
+          <div class="container-card">
+            <div class="info-cards">
+              <h3>Criação de Logótipos</h3>
+              <p>Lorem ipsum dolor sit amet <br> consectetur adipisicing elit. Odit, ipsam <br> quibusdam. Aperiam ex reprehenderit eius, <br>aliquid quas.</p>
+            </div>
+            <div class="links"><a class="color c05" href="#">ver agora</a></div>
+          </div>
+        </div>
+      </div>
+    </section>
